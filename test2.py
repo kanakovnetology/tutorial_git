@@ -1,4 +1,4 @@
-from payment import calculate as cal
+from payment2 import calculate as cal
 
 def test(a,b):
     c = cal(a,b)
